@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI / IS-93</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
-<code>💡 [Skills](SKILLS.md)</code>
+<code>💡 Skill in the process of marking. [Skills](SKILLS.md)</code>
 <code>🧻 Current [project](https://github.com/sbekberov/afpm)</code><br>
 <code>🧑‍💻 Languages: Java </code>
 <code>📦 Tech stack: Spring, Spring Boot, Spring security, Hibernate, JUnit</code>
